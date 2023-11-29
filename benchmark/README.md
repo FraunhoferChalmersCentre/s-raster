@@ -30,7 +30,9 @@ The `results/` folder contains saved results from the scripts:
 
 ## Requirements
 * R
-* [stream](https://www.rdocumentation.org/packages/stream)
-* Rcpp
+* [stream](https://www.rdocumentation.org/packages/stream) {working on 1.2-4}
+* Rcpp {working on 1.0.0}
+* magick
+* animation
 * gcc
 * Python
