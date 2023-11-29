@@ -19,7 +19,7 @@ But this script can also be used for creating a time annotated data file from a 
 
 ## Results
 The `results/` folder contains saved results from the scripts:
-* `algorithm_comparisons.py` -> `benchmark_results.csv` and `mean_benchmark_results.csv`.
+* `algorithm_comparisons.r` -> `benchmark_results.csv` and `mean_benchmark_results.csv`.
   This used annotated data with 10 cluster (5000 points) per day
 * `compare_sraster.r`-> `replication_scores.txt` (console print), `replication_benchmark.png` (plot saved) and `replication_benchmark_weighted.png` (plot saved)
 * `plot_algorithm_comparison.py` -> `compare_algs_time.png` and `compare_algs_clustered.png`
